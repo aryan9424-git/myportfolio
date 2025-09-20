@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.26cf7980.css",
+    "main.js": "/portfolio/static/js/main.212da6ab.js",
+    "static/media/honey.jpg": "/portfolio/static/media/honey.2c4f387c33972791fb94.jpg",
+    "static/media/hotel landing.jpg": "/portfolio/static/media/hotel landing.b68d13d9d892c7cb7783.jpg",
+    "static/media/amaghati.jpg": "/portfolio/static/media/amaghati.f9fcb1521441b5d81064.jpg",
+    "static/media/1000375606-Photoroom.png": "/portfolio/static/media/1000375606-Photoroom.5d290ad5537997080b65.png",
+    "static/media/b.png": "/portfolio/static/media/b.b9166e043954b7c37911.png",
+    "static/media/c.png": "/portfolio/static/media/c.3a6ebe452363236232fe.png",
+    "static/media/dairy.jpg": "/portfolio/static/media/dairy.1a62df9231c7cc960776.jpg",
+    "static/media/logo2.png": "/portfolio/static/media/logo2.91af9173788ad71293cd.png",
+    "static/media/bakery.jpg": "/portfolio/static/media/bakery.207480fb17dfd75343c7.jpg",
+    "static/media/a.png": "/portfolio/static/media/a.6f783200448e9b6ec62a.png",
+    "static/media/d.png": "/portfolio/static/media/d.a18b160c68d3b2457a44.png",
+    "static/media/puphub.jpg": "/portfolio/static/media/puphub.4f12cdebce95e0fb6e9e.jpg",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/portfolio/index.html",
+    "main.26cf7980.css.map": "/portfolio/static/css/main.26cf7980.css.map",
+    "main.212da6ab.js.map": "/portfolio/static/js/main.212da6ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26cf7980.css",
+    "static/js/main.212da6ab.js"
+  ]
+}
